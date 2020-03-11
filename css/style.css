@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: 'Domine';
+}
+.container-fluid{
+    padding:0px;
+    width:100%;
+}
+#quiz{
+    text-indent: 10px;
+    display:none;
+}
+#prev{
+    display:none;
+}
+#start{
+    display:none;
+}
+#next{
+    display:block;
+}
