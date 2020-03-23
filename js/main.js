@@ -144,46 +144,46 @@
 
 (function () {
     var questions = [{
-        question: "Ramesh has brother Suresh. Ramesh is the son of Gopal. Govind is Gopal’s father. How is Suresh related to govind?",
-        choices: ['son', 'brother', 'grandson', 'grandfather'],
-        correctAnswer: 2
-    }, {
-        question: "Introducing a man, a woman said “His mother is the only daughter of my father”. How is the man related to the woman?",
-        choices: ['Brother', 'son', 'father', 'uncle'],
-        correctAnswer: 1
-    }, {
-        question: " P and Q are sisters. R and S are brothers. P’s daughter is R’s sister. What is Q’s relation to S?",
-        choices: ['mother', 'Grandmother', 'sister', 'aunt'],
+        question: "3 : 81 :: 6 : ?",
+        choices: ['36', '750', '1096', '1296'],
         correctAnswer: 3
     }, {
-        question: "A man said to a lady “Your mother’s husband’s sister is my aunt”. How is the lady related to man ?",
-        choices: ['sister', 'mother', 'daughter', 'grandDaughter'],
+        question: "441 : 462 :: 841 : ?",
+        choices: ['800', '830', '870', '890'],
+        correctAnswer: 2
+    }, {
+        question: " 210 : 6 :: ? : 5",
+        choices: ['120', '110', '130', '125'],
         correctAnswer: 0
+    }, {
+        question: " 35 : 53 :: 56 : ?",
+        choices: ['50', '60', '65', '70'],
+        correctAnswer: 2
     },{
-        question: "A man was 32 years of age when he had his first son. His wife was 35 years of age when his son attaied the age of 7 years. the difference between the age of the father and the mother is ______?",
-        choices: ['7 years', '3 years', '5 years', '4 years'],
+        question: "14 : 195 :: 21 : ?",
+        choices: ['420', '440', '460', '480'],
+        correctAnswer: 1
+    },{
+        question: "213 : 300 :: 170 : ?",
+        choices: [227,237,247,257],
         correctAnswer: 3
     },{
-        question: "Karan remembers that his sister’s birthday is not after 18th August. Karan’s mother remembers that Karan's sister birthday is before 20th august but after 17th august.on which date of august is karan's sister birthday?",
-        choices: [18,17,19,20],
+        question: "5 : 130 :: ? : 1010",
+        choices: ['10',  '12','15', '20'],
         correctAnswer: 0
     },{
-        question: "Pointing to a lady, Diwakar said, “Her mother’s only grandson is my son.” How is that lady related to diwakar?",
-        choices: ['aunty',  'sister','mother', 'wife'],
-        correctAnswer: 1
-    },{
-        question: "Pointing towards a man, Ritika said “He is the son of my grandfather’s only son”. How is Ritika related to that man?",
-        choices: ['aunty',  'sister','mother', 'wife'],
-        correctAnswer: 1
-    },{
-        question: "Pointing towards a girl, Chetan said “She is the daughter of the only child of my grandmother”. How is chetan related to that girl?",
-        choices: ['father',  'son','brother', 'husband'],
+        question: " 43 : 1 :: 52 : ?",
+        choices: ['1',  '2','3', '4'],
         correctAnswer: 2
+    },{
+        question: " 176 : 14936 :: 549 : ?",
+        choices: ['3546',  '4571','25784', '251681'],
+        correctAnswer: 3
     },
      {
-        question: "Introducing a woman, a man said “Her mother is the only daughter of my mother-in law”. How is the man related to the woman?",
-        choices: ['son', 'brother','husband', 'father'],
-        correctAnswer: 3
+        question: "20 : 7980 :: 12 : ?",
+        choices: ['1520', '1716','4520', '4886'],
+        correctAnswer: 1
     }];
 
     var questionCounter = 0; //Tracks question number
